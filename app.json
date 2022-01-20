@@ -1,5 +1,5 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "Payis Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "repository": "https://github.com/Payisun/YukkiMusicBot",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
@@ -117,7 +117,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "value": "https://github.com/Payisun/YukkiMusicBot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
@@ -130,7 +130,7 @@
 
       "description": "For custom ping image, use telegra.ph link",
 
-      "value": "",
+      "value": "https://telegra.ph/file/ace24b738a1b436b17853.jpg",
 
       "required": true
 
