@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Yukki Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ Payis Music Bot ⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
@@ -84,7 +84,7 @@ bash start
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NotReallyShikhar/YukkiMusicBot/tree/dev"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Payisun/YukkiMusicBot/tree/dev"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
